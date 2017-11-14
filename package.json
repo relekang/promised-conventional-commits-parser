@@ -1,11 +1,20 @@
 {
-  "dependencies": {
-    "conventional-commits-parser": "^2.0.1"
-  },
-  "name": "promised-conventional-changelog",
-  "version": "1.0.0",
+  "name": "promised-conventional-commits-parser",
+  "version": "0.0.0",
   "main": "index.js",
   "author": "Rolf Erik Lekang <me@rolflekang.com>",
   "license": "MIT",
-  "private": false
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier -l index.js",
+    "format": "prettier --write index.js"
+  },
+  "dependencies": {
+    "conventional-commits-parser": "^2.0.1",
+    "git-raw-commits": "^1.3.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.8.2"
+  }
 }
