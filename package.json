@@ -1,6 +1,6 @@
 {
   "name": "promised-conventional-commits-parser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "author": "Rolf Erik Lekang <me@rolflekang.com>",
   "license": "MIT",
