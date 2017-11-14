@@ -10,7 +10,7 @@ you should check it out.
 ## Install
 
 ```
-npm install promised-convention-commits-parser
+npm install promised-conventional-commits-parser
 ```
 
 ## Usage
