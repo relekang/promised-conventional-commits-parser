@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "conventional-commits-parser": "^2.0.1"
+  },
+  "name": "promised-conventional-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rolf Erik Lekang <me@rolflekang.com>",
+  "license": "MIT",
+  "private": false
+}
